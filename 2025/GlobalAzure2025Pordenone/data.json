@@ -1,0 +1,35 @@
+{
+  "ValidMaintainers": {
+    "Description": "GitHub users who maintain this folder. PR for changing this folder will only be accepted from these users.",
+    "GitHubHandles": [
+      "marcoparenzan"
+    ]
+  },
+  "CommunityInfo": {
+    "Name": "1nn0va",
+    "Country": "Italy",
+    "Url": "https://globalazure2025pn.1nn0va.it/",
+    "SessionizeApiId": "r34gxh7p",
+    "SessionizeEventName": "globalazure2025pn",
+    "Description_SessionizeApiId": null,
+    "EventPage": "index.md",
+    "SponsorsPage": "sponsors.md",
+    "Logo": {
+      "Description": "1nn0va",
+      "File": "1nn0va-CloudGen.png"
+    },
+    "SamApp": {
+      "AdditionalHosts": []
+    },
+    "Locations": [
+      {
+        "Name": "Consorzio Universitario di Pordenone",
+        "StartDate": "2025-05-10",
+        "EndDate": "2025-05-10",
+        "Address": "Via Prasecco 3/a, Pordenone",
+        "Latitude": 45.9522118,
+        "Longitude": 12.6781303
+      }
+    ]
+  }
+}
